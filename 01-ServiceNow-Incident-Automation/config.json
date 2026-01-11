@@ -1,0 +1,7 @@
+{
+  "base_url": "https://api.example.local",
+  "token_url": "https://auth.example.local/oauth/token",
+  "client_id": "demo-client",
+  "client_secret": "demo-secret",
+  "scope": "read write"
+}
